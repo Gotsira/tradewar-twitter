@@ -6,7 +6,7 @@
     "d3": "^5.9.2",
     "dateformat": "^3.0.3",
     "firebase": "^6.0.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
